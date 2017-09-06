@@ -1,0 +1,61 @@
+a.nav-link{
+  color: grey;
+}
+
+
+#vision{
+  background: url('../img/mobile.jpeg') no-repeat center center fixed;
+  position: relative;
+  color: white;
+  font-size: 20px;
+  height: 100vh;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 10%;
+  text-align: center;
+}
+
+#vision, h3 {
+  padding-top: 25%;
+}
+
+.team, h1{
+  padding: 2.5rem;
+}
+.team, h3{
+  padding: .75rem;
+}
+
+.team, small{
+
+}
+#team img{
+  width: 200px;
+  height: 200px;
+}
+
+#mobile{
+  text-align: center;
+  color: grey;
+}
+
+#mobile, h3{
+  color: grey;
+}
+
+#team{
+  text-align: center;
+  color: grey;
+}
+
+#contact{
+  text-align: center;
+  color: grey;
+}
+
+.bottom{
+  text-align: center;
+  color: grey;
+}
