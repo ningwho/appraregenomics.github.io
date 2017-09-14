@@ -3,6 +3,8 @@ a.nav-link{
 }
 
 
+
+
 #vision{
   background: url('../img/mobile.jpeg') no-repeat center center fixed;
   position: relative;
@@ -53,6 +55,13 @@ a.nav-link{
 #contact{
   text-align: center;
   color: grey;
+}
+
+#about{
+  color: grey;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .bottom{
